@@ -1,0 +1,17 @@
+total 60
+-rw-r--r-- 1 ndism ndism   12 May 29 17:37 '\*\"Best School"\'\*$\?\*\*\*\*\*:)
+drwxr-xr-x 2 ndism ndism 4096 May 29 17:54 .
+drwxr-xr-x 6 ndism ndism 4096 May 29 16:55 ..
+-rwxr-xr-x 1 ndism ndism   32 May 29 16:58 0-hello_world
+-rwxr-xr-x 1 ndism ndism   28 May 29 17:14 1-confused_smiley
+-rwxr-xr-x 1 ndism ndism   28 May 29 17:15 2-hellofile
+-rwxr-xr-x 1 ndism ndism   39 May 29 17:32 3-twofiles
+-rwxr-xr-x 1 ndism ndism   35 May 29 17:33 4-lastlines
+-rwxr-xr-x 1 ndism ndism   35 May 29 17:34 5-firstlines
+-rwxr-xr-x 1 ndism ndism   40 May 29 17:35 6-third_line
+-rwxr-xr-x 1 ndism ndism   74 May 29 17:47 7-file
+-rwxr-xr-x 1 ndism ndism   36 May 29 17:54 8-cwd_state
+-rw-r--r-- 1 ndism ndism    6 May 29 16:53 README.md
+-rw-r--r-- 1 ndism ndism   12 May 29 17:39 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 ndism ndism   38 May 29 17:47 \*\'Best
+-rw-r--r-- 1 ndism ndism    0 May 29 17:54 ls_cwd_content
